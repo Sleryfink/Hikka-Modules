@@ -10,11 +10,11 @@ You can contact me on Telegram. Feel free to reach out with any questions or inq
 
 You can install my modules using raw links. For example:
 ```
-.dlm https://raw.githubusercontent.com/Sleryfink//modules/main/{module name}
+.dlm https://raw.githubusercontent.com/Sleryfink/modules/main/{module name}
 ```
 And you can use my repository, just add my repo:
 ```
-.addrepo https://raw.githubusercontent.com/Sleryfink//modules/main
+.addrepo https://raw.githubusercontent.com/Sleryfink/modules/main
 ```
 After this you will can install mod simple:
 ```
