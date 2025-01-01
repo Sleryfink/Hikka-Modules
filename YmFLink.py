@@ -12,7 +12,7 @@ __version__ = (1, 0, 0)
                                         .o..P'
                                         `Y8P'
 
-    Copyleft 2022 t.me/Sleryfink
+    2024 t.me/Sleryfink
 
 """
 # meta developer: @Sleryfink
